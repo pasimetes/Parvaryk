@@ -2,7 +2,6 @@
 WebAPI to make car transportation to foreign countries easier!
 
 <b>Things done:</b>
-- Implemented command pattern to satisfy single responsibility rule
 - Possibility to authorize user
 - Possibility to register cars, create/handle transportation requests for other users
 
